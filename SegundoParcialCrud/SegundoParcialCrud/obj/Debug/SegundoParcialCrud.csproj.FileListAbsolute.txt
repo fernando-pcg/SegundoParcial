@@ -1,0 +1,12 @@
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.Estudiantes_Presentacion.resources
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.Form1.resources
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.Materias.resources
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.Properties.Resources.resources
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.csproj.GenerateResource.cache
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\bin\Debug\SegundoParcialCrud.exe.config
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\bin\Debug\SegundoParcialCrud.exe
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\bin\Debug\SegundoParcialCrud.pdb
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.exe
+C:\Users\Fernando Figuereo\source\repos\SegundoParcialCrud\SegundoParcialCrud\obj\Debug\SegundoParcialCrud.pdb
